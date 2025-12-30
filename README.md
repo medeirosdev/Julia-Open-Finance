@@ -3,6 +3,8 @@
 [![Julia](https://img.shields.io/badge/Julia-1.9+-blue.svg)](https://julialang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**Part of the [Open Finance Julia](https://github.com/medeirosdev/Julia-Open-Finance) project.**
+
 A high-performance Julia package for fetching financial market data from multiple sources.
 
 ## Features
@@ -17,7 +19,7 @@ A high-performance Julia package for fetching financial market data from multipl
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/JuliaOpenFinance/JuliaMarketFeeder.jl")
+Pkg.add(url="https://github.com/medeirosdev/Julia-Open-Finance")
 ```
 
 Or for development:

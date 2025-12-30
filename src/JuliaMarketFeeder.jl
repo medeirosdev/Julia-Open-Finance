@@ -14,7 +14,7 @@
 #   - Async/batch downloads (planned)
 #   - Native Julia performance
 #
-# Repository: https://github.com/JuliaOpenFinance/JuliaMarketFeeder.jl
+# Repository: https://github.com/medeirosdev/Julia-Open-Finance
 # License: MIT
 #
 # ==============================================================================
