@@ -1,4 +1,4 @@
-# JuliaMarketFeeder.jl
+# JuliaOpenFinance.jl
 
 [![Julia](https://img.shields.io/badge/Julia-1.9+-blue.svg)](https://julialang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
